@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 8px; border: 1px solid #ccc; text-align: center; }
+    </style>
+</head>
+<body>
+    <table>
+        <tr><th>Time</th><th>Monday</th><th>Tuesday</th></tr>
+        <tr><td>9:00 AM</td><td>Math</td><td>Science</td></tr>
+        <tr><td>10:00 AM</td><td>English</td><td>History</td></tr>
+        <tr><td>11:00 AM</td><td>Physics</td><td>Art</td></tr>
+        <tr><td>12:00 PM</td><td>Lunch</td><td>Lunch</td></tr>
+    </table>
+</body>
+</html>
